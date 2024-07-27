@@ -3,7 +3,7 @@
 
 # OctoHub
 <p align="center"><img src=".github/assets/octohub_dark.png#gh-light-mode-only" alt="Logo"></p>
-<p align="center"><img src=".github/assets/octohub_light.png#gh-dark-mode-only" alt="Logo"></p>
+<p align="center"><img src=".github/assets/octohub_light.png#gh-dark-mode-only" alt="Logo"></p>b
 
 **This fork aim to attempt the revival of the awesome FastHub-RE application. The code base is based on a set of changes done on the original [FastHub repository](https://github.com/k0shk0sh/FastHub) by [thermatk](https://github.com/thermatk/FastHub-Libre) and [LightDestory](https://github.com/LightDestory/FastHub-RE)**. We can sum up these changes with:
 
